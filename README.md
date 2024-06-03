@@ -2,12 +2,19 @@
 
 * PL/SQL:
 -> PL/SQL stands for Procedural Language Extension to SQL.
+  
 -> PL/SQL is a block structured language that enables developers to combine the power of SQL with procedural statements.
--> All the statements of a block are passed to oracle engine all at once which increases processing speed and decreases the traffic. 
+
+-> All the statements of a block are passed to oracle engine all at once which increases processing speed and decreases the traffic.
+
 -> Oracle uses a PL/SQL engine to processes the PL/SQL statements.
+
 -> PL/SQL includes procedural language elements like conditions and loops. 
+
 -> It allows declaration of constants and variables, procedures and functions and triggers.
+
 -> Every PL/SQL statement will be followed by semicolon (;). 
+
 -> PL/SQL blocks can be nested.
 
 Advantages :
@@ -31,13 +38,18 @@ Purpose: They encapsulate reusable logic and can be called from other PL/SQL cod
 
 ------------------------------------------------------------------------------------------------------------------
 * PLSQL Building elements:
--> Identifiers are names used to represent various database objects such as variables, constants, procedures, functions, tables, and columns.\
+-> Identifiers are names used to represent various database objects such as variables, constants, procedures, functions, tables, and columns.
+  
 -> Literals are constant values directly specified in the code.
+
 -> The semicolon (;) is used to terminate SQL and PL/SQL statements.In anonymous blocks or named blocks, the semicolon separates statements.
+
 -> Comments provide explanatory notes within the code.
-	-> types of comments:
+	
+ 	-> types of comments:
 		1) single line comment : it begin with double hyphen(--) and continue until end of line.
 		2) multi line comment: it enclosed in /* and */.
+  
 ----------------------------------------------------------------------------------------------------------------------------
 
 * PLSQL DATATYPES:
